@@ -48,3 +48,6 @@ _scratch-*
 # Local planning and agent state (never committed)
 .dryforge
 .omc
+
+# Local AI agent state
+.codex/
